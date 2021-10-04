@@ -29,13 +29,14 @@ The students are distributed by schools and classes.
 
 
 ## Project Organization
-- container folder: contains the files used to run the project using Docker containers and the requirements.txt with the dependences.
+- container (folder): contains the files used to run the project using Docker containers and the requirements.txt with the dependences.
 
-- dataset folder: contains instructions on how to download and put the data the right way inside this folder.
+- dataset (folder): contains instructions on how to download and put the data the right way inside this folder.
 
-- Analysis Jupyter Notebook: the notebook containing all the code used during the analysis.
+- Analysis (Jupyter Notebook): the notebook containing all the code used during the analysis.
 
 
 ## Acknowledgments
-
 - We used the 'Assistments Math 2006-2007 (5046 Students)' dataset accessed via DataShop (pslcdatashop.web.cmu.edu).
+
+- [Classification & Regression Evaluation Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
