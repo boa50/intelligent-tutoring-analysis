@@ -33,10 +33,18 @@ The students are distributed by schools and classes.
 
 - dataset (folder): contains instructions on how to download and put the data the right way inside this folder.
 
-- Analysis (Jupyter Notebook): the notebook containing all the code used during the analysis.
+- Analysis (Jupyter Notebook): the notebook containing all the code used during the analysis. The code is contained in a single file to make it easier to run all the code together.
 
 
 ## Acknowledgments
 - We used the 'Assistments Math 2006-2007 (5046 Students)' dataset accessed via DataShop (pslcdatashop.web.cmu.edu).
 
-- [Classification & Regression Evaluation Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
+- [Classification & Regression Evaluation Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce).
+
+- [XGBoost Explanation](https://www.kaggle.com/dansbecker/xgboost/notebook).
+
+- [Bayesian Optimization Explanation](https://aiinpractice.com/xgboost-hyperparameter-tuning-with-bayesian-optimization/).
+
+- [BayesianOptimization Python Package](https://github.com/fmfn/BayesianOptimization).
+
+- [Threshold Optimization](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/).
